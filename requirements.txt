@@ -2,5 +2,4 @@ streamlit
 tensorflow-cpu==2.10.0
 pillow
 numpy
-scikit-learn
-matplotlib
+opencv-python
