@@ -31,15 +31,16 @@ SkinScan is a **Python machine learning project** that analyzes skin images to d
 
 ## 📂 Project Structure
 
+```
 SkinScan/
-├── dataset_path/
-│ └── (training and test images)
-├── app.py
-├── requirements.txt
-├── runtime.txt
-├── skin_disease_model.h5
-├── skin_model.py
-└── README.md
+  ├── dataset_path/           # training and test images
+  ├── app.py                  # main application script
+  ├── requirements.txt        # project dependencies
+  ├── runtime.txt             # Python runtime version
+  ├── skin_disease_model.h5   # trained model file
+  ├── skin_model.py           # model loading and prediction logic
+  └── README.md               # project documentation
+```
 
 
 ---
